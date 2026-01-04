@@ -1,11 +1,21 @@
-## Hi I'm Jeevan Thomas
+# Introduction
 
--I am a Cyber Security Student passionate about Cyber Security and Digital Forensics.
-Trying to learn more about Cyber Security and improve my skills.
+Hi, my name is **Jeevan Thomas**.
 
-The areas in cyber security that i wish to acheive my skills in are;
+This repository is created to document my learning journey and progress in the following areas.
 
-Networking
-Penetraation Testing
-Network Security
-Red Teaming
+## Cybersecurity
+Notes and concepts related to security fundamentals, threats, vulnerabilities, and defensive techniques.
+
+## Networking
+Learning about network basics, protocols, architectures, and how data moves across networks.
+
+## Network Security
+Focused on securing networks, understanding firewalls, monitoring traffic, and preventing attacks.
+
+## Linux
+Practicing Linux fundamentals, commands, system usage, and administration concepts.
+
+---
+
+This repository will be updated as I continue learning and improving my skills.
